@@ -306,6 +306,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goSpawn: {fileID: 2067177609965754709, guid: 679e29683e0ca0f4dac4b04ef420f467, type: 3}
   arRaycastManager: {fileID: 1935896666}
+  traCamera: {fileID: 1947629056}
+  speedLookAt: 3.1
 --- !u!4 &1197622037
 Transform:
   m_ObjectHideFlags: 0
